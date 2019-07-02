@@ -31,14 +31,14 @@ logo: "https://i.ibb.co/MnFkf9M/UBL-R-D-Nepal-high-quality.png"
 paginate: 5
 paginate_path: blog/page:num
 
-# Header nav
-#navigation_header:
-#- title: Home
-#  url: /
-#- title: About
-#  url: /about/
-#- title: Blog
-#  url: /blog/
+ Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:
